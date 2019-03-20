@@ -57,8 +57,6 @@
 		E9AFAAE022310B49001F95C6 /* FiniteStateMachine.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E9AFAADD22310B31001F95C6 /* FiniteStateMachine.framework */; };
 		E9AFAAE122310B49001F95C6 /* FiniteStateMachine.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = E9AFAADD22310B31001F95C6 /* FiniteStateMachine.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		E9AFAB6422352E09001F95C6 /* MessageProcessor+GroupCommand.m in Sources */ = {isa = PBXBuildFile; fileRef = E9AFAB6322352E09001F95C6 /* MessageProcessor+GroupCommand.m */; };
-		E9BBBE30223E614A00E6ACDA /* usr-moky.plist in Resources */ = {isa = PBXBuildFile; fileRef = E9BBBE2D223E614A00E6ACDA /* usr-moky.plist */; };
-		E9BBBE31223E614A00E6ACDA /* usr-selina.plist in Resources */ = {isa = PBXBuildFile; fileRef = E9BBBE2F223E614A00E6ACDA /* usr-selina.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -553,10 +551,8 @@
 				E97816CE2223EAA700BCE3AD /* Assets.xcassets in Resources */,
 				E92255CD2222EC53006CADEA /* Main.storyboard in Resources */,
 				E92256052222ED5A006CADEA /* Contacts.storyboard in Resources */,
-				E9BBBE31223E614A00E6ACDA /* usr-selina.plist in Resources */,
 				E92256042222ED5A006CADEA /* Profile.storyboard in Resources */,
 				E92256062222ED5A006CADEA /* Account.storyboard in Resources */,
-				E9BBBE30223E614A00E6ACDA /* usr-moky.plist in Resources */,
 				E92256032222ED5A006CADEA /* Conversations.storyboard in Resources */,
 				E92256112222ED6B006CADEA /* ChatViewImages.xcassets in Resources */,
 			);
